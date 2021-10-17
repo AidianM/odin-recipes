@@ -1,0 +1,59 @@
+.links {
+    font-family: Verdana, sans-serif;
+    font-size: 20px;
+}
+* {
+    background: black
+}
+
+.txt {
+    font-size: 15px;
+    color: white;
+}
+p {
+    color: grey;
+    font-family: Impact, sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    color: gold;
+    font-size: 50px;
+    font-family: monospace;
+    text-decoration: underline;
+    div class="center";
+}
+
+h2, h3 {
+    color: orange;
+}
+
+a {
+    color: green;
+}
+
+#himself img {
+    height: auto;
+    width: 300px;
+}
+
+#runar img {
+    height: auto;
+    width: 200px;
+}
+
+img {
+    background-color: white;
+}
+
+ol {
+    color: brown;
+}
+
+ul {
+    color: coral;
+}
+
+.center {
+    text-align: center;
+}
